@@ -1,7 +1,7 @@
 <?php 
 
-    echo 'JANZEN FAIDIBAN';
-    echo '<br>';
+    // echo 'JANZEN FAIDIBAN';
+    // echo '<br>';
 
     $students = array(
                         "Gloria", 
@@ -9,11 +9,12 @@
                         "Jou",
                         "Yekson",
                         "Wihelmina",
-                        "Paul"
+                        "Paul",
+                        "Gipson"
                     );
 
-    foreach($students as $student){
-        echo $student . "<br>";
-    }
+    // foreach($students as $student){
+    //     echo $student . "<br>";
+    // }
     
 ?>
